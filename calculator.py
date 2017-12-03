@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Nov 29 21:08:56 2017
-
-@author: Dominik
+Dominik Hemzaczek, 10360024@mydbs.ie
+CA5, calculator on map reduce filter lambda
+3/12/2017, revision 1
 """
 import json, urllib, math
 
