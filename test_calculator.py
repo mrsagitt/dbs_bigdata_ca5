@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Dec 03 19:56:37 2017
-
-@author: Dominik
+CA5 calculator test file
+Dominik Hemzaczek, 10360024@mydbs.ie
+3/12/2017, revision 1
 """
 
 # testing suite inside
